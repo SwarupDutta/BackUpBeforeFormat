@@ -1,0 +1,15 @@
+npx create-react-app hello-world
+cd hello-world
+npm start
+
+npx is npm package runner
+=======================
+
+
+npm install create-react-app -g
+create-react-app <project_name>
+
+
+ng g c cmp-name
+
+ng g s srvice-name
